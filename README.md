@@ -1,1 +1,1 @@
-# Multimodal-RAG-Pipeline-Chat-with-Videos
+# Multimodal-RAG-Pipeline-Chat-with-Video
